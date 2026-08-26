@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Renato/Documents/2026-1/TP/Clases/Clase 12 (reprogramacion)/Kpop/Kpop/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Kpop.dir\\main.cpp.obj -c \"C:\\Users\\Renato\\Documents\\2026-1\\TP\\Clases\\Clase 12 (reprogramacion)\\Kpop\\Kpop\\main.cpp\"",
+  "file": "C:/Users/Renato/Documents/2026-1/TP/Clases/Clase 12 (reprogramacion)/Kpop/Kpop/main.cpp",
+  "output": "C:/Users/Renato/Documents/2026-1/TP/Clases/Clase 12 (reprogramacion)/Kpop/Kpop/cmake-build-debug/CMakeFiles/Kpop.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Renato/Documents/2026-1/TP/Clases/Clase 12 (reprogramacion)/Kpop/Kpop/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Kpop.dir\\Source\\FuncionesAuxiliares.cpp.obj -c \"C:\\Users\\Renato\\Documents\\2026-1\\TP\\Clases\\Clase 12 (reprogramacion)\\Kpop\\Kpop\\Source\\FuncionesAuxiliares.cpp\"",
+  "file": "C:/Users/Renato/Documents/2026-1/TP/Clases/Clase 12 (reprogramacion)/Kpop/Kpop/Source/FuncionesAuxiliares.cpp",
+  "output": "C:/Users/Renato/Documents/2026-1/TP/Clases/Clase 12 (reprogramacion)/Kpop/Kpop/cmake-build-debug/CMakeFiles/Kpop.dir/Source/FuncionesAuxiliares.cpp.obj"
+}
+]

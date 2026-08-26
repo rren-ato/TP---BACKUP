@@ -1,0 +1,14 @@
+                                     pop      1655
+                                  hiphop       778
+                                     R&B       452
+                                    rock       234
+                                   metal        66
+                        Dance/Electronic       390
+                           Folk/Acoustic        20
+                                   latin        64
+                                 country        21
+                          easy_listening         7
+                       World/Traditional        10
+                                   blues         4
+                               classical         1
+                                    jazz         2

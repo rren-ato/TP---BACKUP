@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Renato/Documents/2026-1/TP/Lab 7/Clase_Thumbnails_spotify/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Clase_Thumbnails_spotify.dir\\main.cpp.obj -c \"C:\\Users\\Renato\\Documents\\2026-1\\TP\\Lab 7\\Clase_Thumbnails_spotify\\main.cpp\"",
+  "file": "C:/Users/Renato/Documents/2026-1/TP/Lab 7/Clase_Thumbnails_spotify/main.cpp",
+  "output": "C:/Users/Renato/Documents/2026-1/TP/Lab 7/Clase_Thumbnails_spotify/cmake-build-debug/CMakeFiles/Clase_Thumbnails_spotify.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Renato/Documents/2026-1/TP/Lab 7/Clase_Thumbnails_spotify/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Clase_Thumbnails_spotify.dir\\Source\\FuncionesAuxiliares.cpp.obj -c \"C:\\Users\\Renato\\Documents\\2026-1\\TP\\Lab 7\\Clase_Thumbnails_spotify\\Source\\FuncionesAuxiliares.cpp\"",
+  "file": "C:/Users/Renato/Documents/2026-1/TP/Lab 7/Clase_Thumbnails_spotify/Source/FuncionesAuxiliares.cpp",
+  "output": "C:/Users/Renato/Documents/2026-1/TP/Lab 7/Clase_Thumbnails_spotify/cmake-build-debug/CMakeFiles/Clase_Thumbnails_spotify.dir/Source/FuncionesAuxiliares.cpp.obj"
+}
+]

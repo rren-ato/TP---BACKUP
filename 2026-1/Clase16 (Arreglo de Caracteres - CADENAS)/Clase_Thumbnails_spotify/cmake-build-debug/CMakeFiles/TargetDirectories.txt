@@ -1,0 +1,3 @@
+C:/Users/Renato/Documents/2026-1/TP/Lab 7/Clase_Thumbnails_spotify/cmake-build-debug/CMakeFiles/Clase_Thumbnails_spotify.dir
+C:/Users/Renato/Documents/2026-1/TP/Lab 7/Clase_Thumbnails_spotify/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Renato/Documents/2026-1/TP/Lab 7/Clase_Thumbnails_spotify/cmake-build-debug/CMakeFiles/rebuild_cache.dir
