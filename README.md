@@ -6,6 +6,9 @@
 
 Este repositorio centraliza material teórico, clases y recursos utilizados durante los cursos, manteniendo cada curso independiente mediante **Git Submodules**.
 
+> [!NOTE]
+> Este repositorio tiene fines **educativos y académicos** y no busca monetizar ni lucrar con el material compartido.
+
 ---
 
 ## 📑 Contenido
@@ -16,6 +19,7 @@ Este repositorio centraliza material teórico, clases y recursos utilizados dura
 * [🔗 Repositorios relacionados](#-repositorios-relacionados)
 * [🤝 Contribuciones](#-contribuciones)
 * [⚠️ Consideraciones](#️-consideraciones)
+* [📌 Resumen](#-resumen)
 
 ---
 
@@ -28,7 +32,7 @@ Actualmente, este repositorio incorpora los siguientes cursos mediante **Git Sub
 | 🧮 **Algoritmos y Estructuras de Datos** | [AlgoED---BACKUP](https://github.com/rren-ato/AlgoED---BACKUP)     |
 | 💻 **Programación 2**                    | [PROGRA-2---BACKUP](https://github.com/rren-ato/PROGRA-2---BACKUP) |
 
-Estos repositorios mantienen su propio historial, contenido y estructura, mientras que `TP---BACKUP` funciona como punto central de acceso.
+Estos repositorios mantienen su propio historial, contenido y estructura, mientras que `TP---BACKUP` funciona como punto central de acceso al material.
 
 ---
 
@@ -66,7 +70,7 @@ Ejecutar:
 git submodule update --remote --merge --recursive
 ```
 
-Este comando permite actualizar los submódulos utilizando las referencias remotas configuradas y, mediante `--recursive`, también actualizar posibles submódulos que existan dentro de ellos.
+Este comando actualiza los submódulos utilizando las referencias remotas configuradas y, mediante `--recursive`, también permite actualizar posibles submódulos que existan dentro de ellos.
 
 ### 🔍 Verificar los cambios
 
@@ -96,6 +100,7 @@ git push
 
 > [!WARNING]
 > Los contenidos de cada curso deben modificarse desde **su propio repositorio**.
+>
 > `TP---BACKUP` únicamente mantiene la referencia al commit correspondiente de cada submódulo.
 
 ---
@@ -106,7 +111,7 @@ git push
 
 [**TP-**](https://github.com/rren-ato/TP-)
 
-Repositorio principal orientado al material práctico y evaluativo:
+Repositorio orientado principalmente al **material práctico y evaluativo**, incluyendo:
 
 * 📄 Enunciados
 * 📁 Archivos de datos
@@ -114,17 +119,30 @@ Repositorio principal orientado al material práctico y evaluativo:
 * 📝 Material complementario
 * 🧪 Laboratorios de diferentes años
 
+### 💻 Material práctico — Programación 2
+
+[**Evaluaciones-progra2**](https://github.com/jamesVLK/Evaluaciones-progra2)
+
+Repositorio externo relacionado con **Programación 2**, que contiene material práctico del curso, incluyendo:
+
+* 📝 Ejercicios
+* 🧪 Laboratorios
+* 📄 Evaluaciones
+
+> [!NOTE]
+> `Evaluaciones-progra2` **no es un submódulo** de `TP---BACKUP`. Se incluye como repositorio relacionado para facilitar el acceso al material práctico de Programación 2.
+
 ### 🧮 Algoritmos y Estructuras de Datos
 
 [**AlgoED---BACKUP**](https://github.com/rren-ato/AlgoED---BACKUP)
 
-Repositorio independiente utilizado como submódulo de este proyecto.
+Repositorio independiente utilizado como **Git Submodule** de este proyecto.
 
 ### 💻 Programación 2
 
 [**PROGRA-2---BACKUP**](https://github.com/rren-ato/PROGRA-2---BACKUP)
 
-Repositorio independiente utilizado como submódulo de este proyecto.
+Repositorio independiente utilizado como **Git Submodule** de este proyecto.
 
 ---
 
@@ -160,28 +178,44 @@ Se recomienda utilizar el material como **apoyo al aprendizaje** y procurar reso
 ## 📌 Resumen
 
 ```text
-┌─────────────────────────────────────┐
-│           TP---BACKUP               │
-│       📚 Repositorio Legacy         │
-└─────────────────┬───────────────────┘
-                  │
-          Git Submodules
-          ┌───────┴────────┐
-          ▼                ▼
- ┌────────────────┐ ┌────────────────┐
- │ AlgoED---BACKUP│ │PROGRA-2---BACKUP│
- │      🧮        │ │       💻        │
- └────────────────┘ └────────────────┘
+                              📚 TP---BACKUP
+                            Repositorio Legacy
+                         Material teórico / clases
+                                   │
+                         ┌─────────┴─────────┐
+                         │                   │
+                  Git Submodule       Git Submodule
+                         │                   │
+                         ▼                   ▼
+              ┌─────────────────┐   ┌──────────────────┐
+              │ AlgoED---BACKUP │   │PROGRA-2---BACKUP │
+              │       🧮        │   │        💻        │
+              └─────────────────┘   └──────────────────┘
+                         │                   │
+                         │                   │
+                         └─────────┬─────────┘
+                                   │
+                            Material teórico
 
 
-              Material práctico
-                     │
-                     ▼
-              ┌──────────────┐
-              │     TP-      │
-              │     🧪       │
-              └──────────────┘
+                         ┌──────────────────┐
+                         │       TP-        │
+                         │       🧪         │
+                         │ Material práctico│
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                       ┌──────────────────────┐
+                       │ Evaluaciones-progra2 │
+                       │    💻 Prog. 2        │
+                       │ Ejercicios / Labs    │
+                       └──────────────────────┘
 ```
 
-**TP---BACKUP** → material teórico y repositorios Legacy
-**TP-** → laboratorios, evaluaciones y resoluciones
+### 🧭 En resumen
+
+**`TP---BACKUP`** → 📚 Material teórico y repositorios Legacy
+**`AlgoED---BACKUP`** → 🧮 Material teórico de Algoritmos y Estructuras de Datos
+**`PROGRA-2---BACKUP`** → 💻 Material teórico de Programación 2
+**`TP-`** → 🧪 Laboratorios, evaluaciones, datos y resoluciones
+**`Evaluaciones-progra2`** → 💻 Ejercicios, laboratorios y evaluaciones de Programación 2
