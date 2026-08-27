@@ -1,3 +1,6 @@
 [submodule "Programacion 2 repo-backup"]
 	path = Programacion 2 repo-backup
 	url = https://github.com/rren-ato/PROGRA-2---BACKUP.git
+[submodule "Algoritmia repo-backup"]
+	path = Algoritmia repo-backup
+	url = https://github.com/rren-ato/AlgoED---BACKUP.git
