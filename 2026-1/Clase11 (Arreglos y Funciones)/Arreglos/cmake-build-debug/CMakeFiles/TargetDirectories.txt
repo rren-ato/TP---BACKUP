@@ -1,0 +1,3 @@
+C:/Users/Renato/Documents/2026-1/TP/Clases/Clase 11/Arreglos/cmake-build-debug/CMakeFiles/Arreglos.dir
+C:/Users/Renato/Documents/2026-1/TP/Clases/Clase 11/Arreglos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Renato/Documents/2026-1/TP/Clases/Clase 11/Arreglos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

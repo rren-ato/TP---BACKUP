@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Renato/Documents/2026-1/TP/Clases/Clase 11/Arreglos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Arreglos.dir\\main.cpp.obj -c \"C:\\Users\\Renato\\Documents\\2026-1\\TP\\Clases\\Clase 11\\Arreglos\\main.cpp\"",
+  "file": "C:/Users/Renato/Documents/2026-1/TP/Clases/Clase 11/Arreglos/main.cpp",
+  "output": "C:/Users/Renato/Documents/2026-1/TP/Clases/Clase 11/Arreglos/cmake-build-debug/CMakeFiles/Arreglos.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Renato/Documents/2026-1/TP/Clases/Clase 11/Arreglos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Arreglos.dir\\Source\\FuncionesAuxiliares.cpp.obj -c \"C:\\Users\\Renato\\Documents\\2026-1\\TP\\Clases\\Clase 11\\Arreglos\\Source\\FuncionesAuxiliares.cpp\"",
+  "file": "C:/Users/Renato/Documents/2026-1/TP/Clases/Clase 11/Arreglos/Source/FuncionesAuxiliares.cpp",
+  "output": "C:/Users/Renato/Documents/2026-1/TP/Clases/Clase 11/Arreglos/cmake-build-debug/CMakeFiles/Arreglos.dir/Source/FuncionesAuxiliares.cpp.obj"
+}
+]
