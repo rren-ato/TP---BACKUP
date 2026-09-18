@@ -6,6 +6,8 @@
 
 Este repositorio centraliza material teórico, clases y recursos utilizados durante los cursos, manteniendo cada curso independiente mediante **Git Submodules**.
 
+https://docs.google.com/document/d/1seX8RNi-VQwz4Cqbpo-OAETe6pqh8uQLzx47pqc5w0o/edit?usp=drivesdk 
+
 > [!NOTE]
 > Este repositorio tiene fines **educativos y académicos** y no busca monetizar ni lucrar con el material compartido.
 
